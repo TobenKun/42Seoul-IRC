@@ -53,7 +53,7 @@ make
 ### 4. 클라이언트 접속 (irssi 활용)
 ```bash
 irssi
-/server 127.0.0.1 6667 -password secretpass -nocap 
+/connect -nocap 127.0.0.1 6667 -password secretpass
 ```
 
 ### 5. 기본 명령어 예제
